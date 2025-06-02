@@ -1,0 +1,17 @@
+name: eurekka_trivia
+description: A trivia app for Eurekka
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+  percent_indicator: ^4.2.3
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/eurekka_logo.png

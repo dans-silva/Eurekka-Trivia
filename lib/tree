@@ -1,0 +1,14 @@
+eurekka_trivia/
+├── assets/
+│   └── eurekka_logo.png  # Adicione a logo aqui
+├── lib/
+│   ├── main.dart         # Arquivo principal com todas as telas
+│   ├── models/
+│   │   └── question.dart # Modelo para as perguntas da API
+│   ├── services/
+│   │   └── trivia_service.dart # Serviço para consumir a API
+│   └── widgets/
+│       └── custom_button.dart # Widget personalizado para botões
+├── pubspec.yaml          # Arquivo de configuração do Flutter
+
+essa é a estrutura do projeto e ela fala o que cada classe faz...
